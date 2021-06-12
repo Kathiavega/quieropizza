@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace SheykaFashion.Web.Controllers
+namespace QuieroPizza.Web.Controllers
 {
     public class HomeController : Controller
     {

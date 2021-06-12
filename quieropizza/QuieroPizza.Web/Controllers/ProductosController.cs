@@ -1,11 +1,11 @@
-﻿using SheykaFashion.Web.Models;
+﻿using QuieroPizza.Web.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace SheykaFashion.Web.Controllers
+namespace QuieroPizza.Web.Controllers
 {
     public class ProductosController : Controller
     {
